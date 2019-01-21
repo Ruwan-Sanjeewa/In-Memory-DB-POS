@@ -5,3 +5,4 @@ idea/**
 *.class
 *.jar
 node_modules/**
+out/**
